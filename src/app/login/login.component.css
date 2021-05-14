@@ -26,15 +26,3 @@ form button{
     padding-left: 20px;
     padding-right: 20px;
 }
-
-#empresa{
-    flex-direction: column;
-}
-
-#empresa img {
-    width: 400px;
-}
-
-#empresa h3 {
-    text-transform: uppercase;
-}
